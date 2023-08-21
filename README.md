@@ -1,3 +1,4 @@
+theme: Dinky
 # TITLE OF THIS WEBSITE
 This branch will be used for a sample website.
 
